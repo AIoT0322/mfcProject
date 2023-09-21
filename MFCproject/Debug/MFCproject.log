@@ -1,0 +1,5 @@
+﻿  MFCproject.cpp
+  MFCprojectDlg.cpp
+  코드를 생성하고 있습니다...
+MFCprojectDlg.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+  MFCproject.vcxproj -> C:\Users\aiot49\source\repos\MFCproject\Debug\MFCproject.exe
